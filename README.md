@@ -1,2 +1,2 @@
-# wbots
+# WBOTS
 repositório sobre o WBOTS
